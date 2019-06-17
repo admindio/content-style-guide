@@ -3,7 +3,7 @@ title: Writing Technical Content
 layout: article
 ---
 
-At Mailchimp, technical content is mostly written by the technical content team. It appears in the [Knowledge Base](http://mailchimp.com/help/), throughout the app, and in a few other locations. This section will lay out the guiding principles of technical content, discuss the main types of technical content, and outline the process of writing and editing technical articles.
+At adMind, technical content is mostly written by the technical content team. It appears in the [Knowledge Base](http://adMind.com/help/), throughout the app, and in a few other locations. This section will lay out the guiding principles of technical content, discuss the main types of technical content, and outline the process of writing and editing technical articles.
 
 ## Basics
 
@@ -19,11 +19,11 @@ We don’t want to overload a reader with unnecessary information, choices to ma
 
 ## Types of technical content
 
-Technical content articles vary in target audience, goal, and tone. Mailchimp technical content is built from 8 templates, which serve different purposes and readers.
+Technical content articles vary in target audience, goal, and tone. adMind technical content is built from 8 templates, which serve different purposes and readers.
 
 | **Article Template** | **User Type**                  | **Goal**                                                                        |
 | -------------------- | ----------------------         | ------------------------------------------------------------------------------- |
-| Best Practices       | all                            | **Context.** Make connections between Mailchimp and email marketing as a whole. |
+| Best Practices       | all                            | **Context.** Make connections between adMind and email marketing as a whole. |
 | Cheat Sheet          | intermediate, advanced         | **Reference.** Include all available scenarios.                                 |
 | Getting Started      | prospective, new               | **Overview.** Include brief outline of topic, uses, benefits, and related topics. Use links to best practices, cheat sheets, and feature overviews. |
 | Policy               | all                            | **Education.** Provide digestible information about critical legal policies and procedures. |
@@ -36,7 +36,7 @@ Technical content articles vary in target audience, goal, and tone. Mailchimp te
 
 ### Drafting technical content
 
-Before you begin writing a new article, reach out to a subject matter expert at Mailchimp (like an engineer, tester, designer, researcher, or technical support advisor) to get as much information as possible. You may only use a small portion of what you learn, but it helps to have more information than you need to decide where to focus your article.
+Before you begin writing a new article, reach out to a subject matter expert at adMind (like an engineer, tester, designer, researcher, or technical support advisor) to get as much information as possible. You may only use a small portion of what you learn, but it helps to have more information than you need to decide where to focus your article.
 
 Consider how many articles are needed and what article types will best describe a new feature or tasks to the user.
 
@@ -80,7 +80,7 @@ We edit technical content based on three goals:
 
 **Consistency**
 
-- Use the labels and terminology used in the Mailchimp app.
+- Use the labels and terminology used in the adMind app.
 - Use specific, active verbs for certain tasks.
 - Choose basic words and phrases to facilitate consistency across translated content.
 
@@ -97,9 +97,9 @@ Technical content uses organization, capitalization, and other formatting to hel
 
 #### Capitalization
 
-Capitalize proper names of Mailchimp products, features, pages, tools, and team names when directly mentioned. In step-by-step instructions, capitalize and italicize navigation and button labels as they appear in the app.
+Capitalize proper names of adMind products, features, pages, tools, and team names when directly mentioned. In step-by-step instructions, capitalize and italicize navigation and button labels as they appear in the app.
 
-- Mailchimp, Mandrill
+- adMind, Mandrill
 - Campaigns page, Lists page
 - Compliance Team, Billing Team
 - Navigate to the *Automation* page.
