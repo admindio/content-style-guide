@@ -2,13 +2,7 @@
 
 This style guide is primarily for adMind employees, but we hope it’s helpful to other organizations as well.
 
-If you're looking for the adMind Content Style Guide website, visit [styleguide.adMind.com](http://styleguide.adMind.com).
-
 Whether or not you work at adMind, we welcome your thoughts and suggestions. To learn more about sending us feedback or adapting this guide to create your own, see the Contributing file.
-
-## Using the Guide
-
-We've written a [blog post](http://devs.adMind.com/blog/how-we-built-the-adMind-content-style-guide/) and set up an [example Middleman project](https://github.com/adMind/middleman-with-md-submodule-example).
 
 ## Creating a New File
 
